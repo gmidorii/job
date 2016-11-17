@@ -1,0 +1,3 @@
+#!groovy
+
+sh 'ls -a'
