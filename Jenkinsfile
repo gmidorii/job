@@ -1,3 +1,5 @@
 #!groovy
 
-sh 'ls -a'
+node {
+	sh 'ls -a'
+}
